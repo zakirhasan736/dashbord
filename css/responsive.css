@@ -1,0 +1,440 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+    .cusnavmenu-nav li a {
+        font-size: 18px;
+        padding: 17px 40px 16px;
+    }
+    .topform-group {
+        margin-left: 22px;
+    }
+    .toggleSelect-action .nice-select {
+        width: 210px;
+    }
+    .topform-group .topform-control {
+        padding: 10px 11px 13px 55px;
+        width: 190px;
+    }
+    .bodyleftbar-box.extra-info.extra-info2.info-open .topform-group .topform-control {
+        width: 150px;
+        font-size: 15px !important;
+    }
+    .bodyleftbar-box.extra-info.extra-info2.info-open .topform-group {
+        margin-left: 10px !important;
+    }
+    .bodyleftbar-box.extra-info.extra-info2.info-open .toggleSelect-action .nice-select {
+        width: 160px;
+    }
+    .bodyleftbar-tbl-body tr td {
+        width: auto;
+    }
+    .bodyleftbar-tbl-body tr td span {
+        font-size: 14px;
+    }
+c
+    }
+    
+    /* LG Device :992px. */
+    @media (min-width: 992px) and (max-width: 1200px) {
+        .bodyleftbar-box {
+            padding: 30px 35px 30px 30px;
+        }
+        .bodyleftbar-box.extra-info2.info-open2, 
+        .bodyleftbar-box.extra-info.info-open {
+            margin-right: 83px;
+            padding: 35px 30px 30px 30px;
+        }
+        .cusnavmenu-nav li a {
+            font-size: 16px;
+            padding: 17px 25px 16px;
+        }
+        .overlycontrolarbtn.info-bar3 img {
+            width: 84%;
+        }
+        .formtop-controlbtn img {
+            width: 90%;
+        }
+        .topform-group .topform-control {
+            padding: 10px 11px 13px 20px;
+            width: 150px;
+            font-size: 14px;
+        }
+        .topform-group .topform-control::placeholder{
+            font-size: 14px;
+        }
+        .topform-group {
+            margin-left: 15px;
+        }
+        .toggleSelect-action .nice-select {
+            width: 175px;
+        }
+        .body-toplink-left li img {
+            width: 90%;
+        }
+        .overlyn-formGroup.topform-group.ovrgroup2 {
+            width: 298px;
+        }
+        .overly-control.topform-control {
+            width: 298px;
+        }
+        .overlyn-formGroup.topform-group .toggleSelect-action .nice-select {
+            width: 298px;
+        }
+
+
+    }
+    
+     
+    /* MD Device :768px. */
+    @media (min-width: 768px) and (max-width: 991px) {
+ .bodyleftbar-box {
+	padding: 30px 20px 30px 20px;
+}
+        .bodyleftbar-box.extra-info2.info-open2, .bodyleftbar-box.extra-info.info-open {
+            margin-right: 60px;
+            padding: 35px 30px 30px 30px;
+        }
+        .meanmenu-reveal {
+            position: absolute !important;
+            top: -16px !important;
+            left: 55px !important;
+            right: auto !important;
+            border: 1px solid #fff !important;
+            color: #fff !important;
+        }
+        .mean-container .mean-nav {
+            margin-top: 0px;
+            background-color: #485272;
+        }
+        .overlycontrolarbtn.info-bar3 img {
+            width: 84%;
+        }
+        .formtop-controlbtn img {
+            width: 65%;
+        }
+        .body-toplink-right h3 {
+            font-size: 20px;
+            margin-left: 0;
+        }
+        .body-toplink-left li img {
+            width: 85%;
+        }
+        .topform-group .topform-control {
+            padding: 10px 11px 13px 20px;
+            width: 100px;
+            font-size: 14px;
+        }
+        .topform-group .topform-control::placeholder{
+            font-size: 14px;
+        }
+        .topform-group {
+            margin-left: 15px;
+        }
+        .toggleSelect-action .nice-select {
+            width: 110px;
+        }
+        .bodyleftbar-tbl-body tr td span {
+            margin-right: 5px;
+        }
+       
+        .bodyleftbar-tbl-body tr td span {
+            font-size: 10px;
+        }
+        .thirdRow-leftbody .boduleft-tbl1 span, .secondRow-leftbody .boduleft-tbl2 span, .firstRow-leftbody .boduleft-tbl3 span {
+            font-size: 12px;
+            margin-left: 5px;
+        }
+        .bodyleftbar-tbl-body tr td {
+            width: unset;
+            vertical-align: middle !important;
+            border: 0 !important;
+            padding-right: 5px;
+        }
+        .bodyleftbar-tbl-body tr td span {
+            margin-right: 5px;
+        }
+        .bodyleftbar-tbl-body tr td span {
+            font-size: 12px;
+        }
+        .bodyleftbar-tbl-body tr td {
+            width: unset;
+        }
+        .overlyn-contentFormControl {
+            width: 100%;
+        }
+        .overlyn-formGroup.topform-group.ovrgroup2 {
+            width: 298px;
+        }
+        .overly-control.topform-control {
+            width: 298px;
+        }
+        .overlyn-formGroup.topform-group .toggleSelect-action .nice-select {
+            width: 298px;
+        }
+           /* ---------------------------- */
+           .mean-container a.meanmenu-reveal {
+            border: 1px solid #fff;
+            color: #fff;
+            margin-top: -38px;
+            right: 35px !important;
+        }
+    
+        .mean-container a.meanmenu-reveal span::before {
+            content: "";
+            position: absolute;
+            width: 55%;
+            height: calc(10% - 1px);
+            left: 0;
+            top: 18px;
+            background: #fff;
+            right: 0;
+            margin: 0 auto;
+        }
+    
+        .mean-container a.meanmenu-reveal span::after {
+            content: "";
+            position: absolute;
+            width: 55%;
+            height: calc(10% - 1px);
+            left: 0;
+            top: 24px;
+            background: #fff;
+            right: 0;
+            margin: 0 auto;
+        }
+    
+        .mean-container a.meanmenu-reveal span {
+            background: #fff none repeat scroll 0 0;
+            margin-top: 5px;
+        }
+        .mean-nav ul>li.active a {
+            color: #1E87F0;
+        }
+    
+        .mean-nav ul>li:hover a {
+            color: #1E87F0;
+        }
+        .cusnavmenu-nav li a {
+            font-size: 19px;
+           
+        }
+    }
+    
+     
+    /* Extra small Device. */
+    @media (max-width: 767px) {
+        .cusnavmenu-nav li a {
+            font-size: 19px;
+           
+        }
+        .bodyleftbar-box {
+            padding: 30px 10px 30px 10px;
+            margin-right: 40px;
+        }
+                .bodyleftbar-box.extra-info2.info-open2, .bodyleftbar-box.extra-info.info-open {
+                    margin-right: 60px;
+                    padding: 35px 30px 30px 30px;
+                }
+                .meanmenu-reveal {
+                    position: absolute !important;
+                    top: -16px !important;
+                    left: 55px !important;
+                    right: auto !important;
+                    border: 1px solid #fff !important;
+                    color: #fff !important;
+                }
+                .mean-container .mean-nav {
+                    margin-top: 0px;
+                    background-color: #485272;
+                }
+         
+                .formtop-controlbtn img {
+                    width: 75%;
+                }
+                .body-toplink-right h3 {
+                    font-size: 28px;
+                }
+            
+                .topform-group .topform-control {
+                    padding: 10px 11px 13px 20px;
+                    width: 120px;
+                    font-size: 14px;
+                }
+                .topform-group .topform-control::placeholder{
+                    font-size: 14px;
+                }
+                .topform-group {
+                    margin-left: 15px;
+                }
+                .toggleSelect-action .nice-select {
+                    width: 135px;
+                }
+                .bodyleftbar-tbl-body tr td span {
+                    margin-right: 5px;
+                }
+               
+                .bodyleftbar-tbl-body tr td span {
+                    font-size: 10px;
+                }
+                .thirdRow-leftbody .boduleft-tbl1 span, .secondRow-leftbody .boduleft-tbl2 span, .firstRow-leftbody .boduleft-tbl3 span {
+                    font-size: 12px;
+                    margin-left: 5px;
+                }
+                .bodyleftbar-tbl-body tr td {
+                    width: unset;
+                    vertical-align: middle !important;
+                    border: 0 !important;
+                    padding-right: 5px;
+                }
+                .bodyleftbar-tbl-body tr td span {
+                    margin-right: 5px;
+                }
+                .bodyleftbar-tbl-body tr td span {
+                    font-size: 14px;
+                }
+                .bodyleftbar-tbl-body tr td {
+                    width: unset;
+                }
+                .bodyrightbar-box {
+                    width: 45px;
+                    padding: 36px 5px 0 5px;
+                }
+                .right-bersideinfobar-Control.info-bar img {
+                    width: 75%;
+                }
+                .mobile-menu.mean-container {
+                    position: absolute !important;
+                }
+                .body-toplink-left li {
+                    width: 36px;
+                    margin-left: 3px;
+                }
+                .body-toplink-left li img {
+                    width: 100%;
+                }
+                .bodyleftbar-toplinksec{
+                    display: block !important;
+                }
+                .overlycontrolarbtn.info-bar3 {
+                    width: 126px;
+                    text-align: right;
+                }
+                .toggleSelect-action .nice-select {
+                    width: 100%;
+                }
+                .list-inline-item.toggler-selectTop {
+                    width: 100%;
+                }
+                .formtop-controlbtn img {
+                    width: 60%;
+                }
+                .topform-group .topform-control {
+                    width:100%;
+                }
+                .overlycontrolarbtn.info-bar3 img {
+                    width: 100%;
+                }
+                .bodyleftbarTop-InputOutputBox {
+                    display: block !important;
+                }
+                .overlyn-contentFormControl {
+                    width: 100%;
+                }
+                .overlyn-formGroup.topform-group.ovrgroup2 {
+                    width: 298px;
+                }
+                .overly-control.topform-control {
+                    width: 298px;
+                }
+                .overlyn-formGroup.topform-group .toggleSelect-action .nice-select {
+                    width: 298px;
+                }
+                .overlyn-formGroup.topform-group.overly-list {
+                    position: relative;
+                    top: 0;
+                }
+                .overlyn-formGroup.topform-group.ovrgroup13 {
+                    position: relative;
+                    right: 0;
+                }
+                .overlyn-formGroup.topform-group {
+                    margin-left: 0px;
+                }
+                .body-toplink-right h3 {
+                    font-size: 18px;
+                    margin-left: 30px;
+                }
+                .topform-group {
+                    margin-left: 0;
+                    width: 100%;
+                }
+                .bodyrightbar-itemsbox2, .bodyrightbar-itemsbox1 {
+                    width: 100%;
+                }
+                .bodyrightbar-itemsbox1btn.btn2.info-bar2 {
+                    margin-left: 2px;
+                }
+        /* ================ */
+        .meanmenu-reveal {
+            position: absolute !important;
+            top: -16px !important;
+            left: 15px !important;
+            right: auto !important;
+            border: 1px solid #fff !important;
+            color: #fff !important;
+        }
+        .mean-container .mean-nav {
+            margin-top: 0px;
+            background-color: #485272;
+        }
+           /* ---------------------------- */
+           .mean-container a.meanmenu-reveal {
+            border: 1px solid #fff;
+            color: #fff;
+            margin-top: -38px;
+            right: 35px !important;
+        }
+    
+        .mean-container a.meanmenu-reveal span::before {
+            content: "";
+            position: absolute;
+            width: 55%;
+            height: calc(10% - 1px);
+            left: 0;
+            top: 18px;
+            background: #fff;
+            right: 0;
+            margin: 0 auto;
+        }
+    
+        .mean-container a.meanmenu-reveal span::after {
+            content: "";
+            position: absolute;
+            width: 55%;
+            height: calc(10% - 1px);
+            left: 0;
+            top: 24px;
+            background: #fff;
+            right: 0;
+            margin: 0 auto;
+        }
+    
+        .mean-container a.meanmenu-reveal span {
+            background: #fff none repeat scroll 0 0;
+            margin-top: 5px;
+        }
+        .mean-nav ul>li.active a {
+            color: #1E87F0;
+        }
+    
+        .mean-nav ul>li:hover a {
+            color: #1E87F0;
+        }
+
+    }
+     
+    /* SM Small Device :550px. */
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+    
+     
+    }
